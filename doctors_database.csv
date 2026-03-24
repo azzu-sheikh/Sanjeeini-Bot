@@ -1,0 +1,31 @@
+DoctorID,Name,Specialization,Education,Location,Available_Hours,Rating,Treatment_Specialty
+D001,Dr. Darshan B N,General Physician,"MBBS, MD - General Medicine | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,General
+D002,Dr. Subir Kumar Ghose,General Physician,"MBBS, MD - General Medicine | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 8:00 PM,5,General
+D003,Dr. Prashanth Mahawar,Allergist,"MBBS, MD - Allergy & Immunology | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Allergies
+D004,Dr. Aratrika Das,Allergist,"MBBS, MD - Allergy & Immunology | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,Allergies
+D005,Dr. Ranganatha R,Pulmonologist,"MBBS, DTCD, DNB - Pulmonology | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 8:00 PM,5,Respiratory
+D006,Dr. Mukali Mohan B V,Pulmonologist,"MBBS, MD, MRCP - Pulmonology | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Respiratory
+D007,Dr. Rajesh Kumar,General Physician,"MBBS, MD - General Medicine | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",11:00 AM - 7:00 PM,5,General
+D008,Dr. Priya Sharma,Pediatrician,"MBBS, MD - Pediatrics | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:30 AM - 6:30 PM,5,Children
+D009,Dr. Amit Patel,Dermatologist,"MBBS, MD - Dermatology | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:30 AM - 7:30 PM,5,Skin
+D010,Dr. Sneha Reddy,ENT Specialist,"MBBS, MS - ENT | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,ENT
+D011,Dr. Animesh Kar,Neurologist,"MBBS, MD, DM (Neurology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,Brain & Nerves
+D012,Dr. Krishan Kumar Bansal,Neurologist,"MBBS, MS, MCh (Neurosurgery) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 8:00 PM,5,Brain & Nerves
+D013,Dr. Vikram Huded,Neurologist,"MBBS, MD (General Medicine), DM (Neurology) | Director & Clinical Lead","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Brain & Nerves
+D014,Dr. Komal Prasad,Neurologist,"MBBS, DNB (General Surgery), MCh (Neurosurgery) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",11:00 AM - 7:00 PM,5,Brain & Nerves
+D015,Dr. Sunil Dharmani,Nephrologist,"MBBS, MD, DM (Nephrology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Kidney
+D016,Dr. Kamal Kumar Kaswan,Nephrologist,"MBBS, MD, DM (Nephrology) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 7:00 PM,5,Kidney
+D017,Dr. Saurabh Bhargava,Urologist,"MBBS, MRCS (Glasgow), MD (Urology), FRCS | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 6:00 PM,5,Urology
+D018,Dr. Champai Saren,Urologist,"MBBS, MS (General Surgery), MCh (Urology) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,Urology
+D019,Dr. Prashanth M Kulkarni,Urologist,"MBBS, MS (General Surgery), DNB (Urology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 8:00 PM,5,Urology
+D020,Dr. Mehta Hasit Rudreshkumar,Urologist,"MBBS, MS (General Surgery), DNB (Urology) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Urology
+D021,Dr. Tapas Kumar Saha,Urologist,"MBBS, MS (General Surgery), MCh (Urology) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",11:00 AM - 7:00 PM,5,Urology
+D022,Dr. Chethan B Bhandary,General Physician,"MBBS, PGDMLE | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:30 AM - 6:30 PM,5,General Health
+D023,Dr. Nidhin Mohan,General Physician,"MBBS, MD (General Medicine) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 7:00 PM,5,General Health
+D024,Dr. Ajay Nair,General Physician,"MBBS, MD (General Medicine) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,General Health
+D025,Dr. Arindam Biswas,General Physician,"MBBS, MD (General Medicine) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:30 AM - 6:30 PM,5,General Health
+D026,Dr. Soupayan Dutta,General Physician,"MBBS, MD (General Medicine) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 7:00 PM,5,General Health
+D027,Dr. Sujan Bardhan,Pulmonologist,"MBBS, MD (General Medicine), DNB (Pulmonology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 6:00 PM,5,Lungs
+D028,Dr. Aratrika Das,Pulmonologist,"MBBS, MD (General Medicine), DNB (Pulmonology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 6:00 PM,5,Lungs
+D029,Dr. Ranganatha R,Pulmonologist,"MBBS, DTCD (TB & Chest Diseases), DNB (Pulmonology) | Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",10:00 AM - 8:00 PM,5,Lungs
+D030,Dr. Mukali Mohan B V,Pulmonologist,"MBBS, MD (General Medicine), MRCP (UK) | Senior Consultant","Sahyadri Narayana Multispeciality Hospital, Shimoga",9:00 AM - 5:00 PM,5,Lungs

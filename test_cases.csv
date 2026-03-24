@@ -1,0 +1,21 @@
+Symptoms,Expected_Condition
+"fever and cough",Cold
+"severe headache with nausea",Migraine
+"chest tightness and wheezing",Asthma
+"burning sensation while urinating",UTI
+"fatigue and pale skin",Anemia
+"sneezing and itchy eyes",Allergies
+"heartburn and chest pain",GERD
+"stomach cramps and bloating",IBS
+"high fever with body aches",Fever
+"excessive thirst and urination",Diabetes
+"I have a cold and cough",Cold
+"My head is pounding and I feel dizzy",Migraine
+"Having trouble breathing",Asthma
+"Pain when I urinate",UTI
+"Feeling very tired and weak",Anemia
+"Can't stop sneezing",Allergies
+"Burning feeling in my chest",GERD
+"My stomach hurts and feels bloated",IBS
+"High temperature and muscle pain",Fever
+"Always thirsty and need to use bathroom",Diabetes

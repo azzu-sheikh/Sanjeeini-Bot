@@ -1,0 +1,56 @@
+Symptoms,Condition
+"fever, cough, throat irritation, fatigue",Cold
+"cough, headache, fatigue, throat irritation, sneezing",Cold
+"runny nose, sneezing, cough, sore throat",Cold
+"i have a cold and cough",Cold
+"stuffy nose with sore throat",Cold
+"fever, headache, body pain, fatigue, muscle ache",Fever
+"high temperature with body aches",Fever
+"fever and chills with muscle pain",Fever
+"feeling hot and having body pain",Fever
+"high fever with weakness",Fever
+"headache, fatigue, light sensitivity, nausea",Migraine
+"severe headache with sensitivity to light",Migraine
+"pounding headache and feeling sick",Migraine
+"migraine with nausea and dizziness",Migraine
+"bad headache with light sensitivity",Migraine
+"throat irritation, sneezing, skin rash, wheezing",Allergies
+"itchy eyes and runny nose",Allergies
+"allergic reaction with rash",Allergies
+"hay fever symptoms",Allergies
+"sneezing and itchy skin",Allergies
+"allergy symptoms",Allergies
+"allergic reaction",Allergies
+"itchy eyes, runny nose, and sneezing",Allergies
+"seasonal allergies acting up",Allergies
+"skin rash and itching from allergies",Allergies
+"cough, fatigue, shortness of breath, wheezing",Asthma
+"difficulty breathing and chest tightness",Asthma
+"wheezing when breathing",Asthma
+"asthma attack symptoms",Asthma
+"cant breathe properly",Asthma
+"throat irritation, chest burning, bloating, nausea",GERD
+"acid reflux and heartburn",GERD
+"burning in chest after eating",GERD
+"stomach acid coming up",GERD
+"heartburn and indigestion",GERD
+"fatigue, bloating, abdominal cramping, nausea",IBS
+"stomach pain and bloating",IBS
+"ibs symptoms acting up",IBS
+"digestive issues and cramps",IBS
+"bowel problems and pain",IBS
+"fatigue, muscle ache, dizziness, pale skin",Anemia
+"feeling weak and tired all the time",Anemia
+"low energy and pale",Anemia
+"anemic symptoms",Anemia
+"exhaustion and weakness",Anemia
+"fatigue, excessive thirst, frequent urination",Diabetes
+"always thirsty and peeing a lot",Diabetes
+"diabetes symptoms",Diabetes
+"high blood sugar signs",Diabetes
+"increased thirst and urination",Diabetes
+"fever, fatigue, burning urination, frequent urination",UTI
+"pain when peeing",UTI
+"urinary tract infection symptoms",UTI
+"burning sensation during urination",UTI
+"bladder infection signs",UTI
