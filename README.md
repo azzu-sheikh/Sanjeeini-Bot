@@ -1,4 +1,4 @@
-# Sanjeevinibot
+# Sanjeevini bot
 Sanjeevini Bot is an intelligent chatbot designed to assist users with health-related queries. It provides medicine suggestions, AI-generated responses, and answers frequently asked health questions.
 
 # Overview
@@ -55,9 +55,5 @@ OpenAI API: For generating advanced AI-powered responses.
     5. csv
     6. openai
 
-# Contributors 
-   - *Azeem Sheikh*
-   - *Chinmay Hegde*
-   - *Aman Khan*
-   - *Harshith Doijode*
+
     
